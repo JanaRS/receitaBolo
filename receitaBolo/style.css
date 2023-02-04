@@ -1,0 +1,55 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    
+}
+
+body {
+    background-color: rgb(240, 200, 147);
+    font-family: 'Poppins', sans-serif;
+
+    font-family: arial, sans-sef;
+    font-size: 18px;
+}
+
+.imagem {
+    text-align: center;
+    margin: 15px 0 10px;
+}
+
+div {
+    margin-bottom: 20px;
+    line-height: 2;
+}
+
+ul ol li{ 
+   list-style: none;
+}
+
+.title {
+    color: white;
+    font-weight: bold;
+    font-size: 32px;
+    background-color: rgb(62, 24, 24);
+    padding: 2px;
+}
+
+h2 {
+    color: white;
+    font-weight: bold;
+    font-size: 24px;
+    background-color: rgb(74, 25, 25); 
+    padding: 5px;  
+}
+
+h3 {
+    margin: 15px 0 5px 5px;
+    padding: 5px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    margin: 20px 0 0 20px;
+    padding: 5px;
+}
